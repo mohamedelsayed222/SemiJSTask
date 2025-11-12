@@ -8,3 +8,4 @@ class Vehicle {
         return this.horn;
     }
 }
+export default Vehicle;
